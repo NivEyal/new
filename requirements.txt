@@ -11,4 +11,3 @@ feedparser
 openai
 polygon
 polygon-api-client
-TA-Lib
